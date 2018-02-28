@@ -1,0 +1,5 @@
+{
+    "apiKey": "Youtube data api key",
+    "chatID": "Youtube live-chat ID",
+    "refresh_token": "Refresh token, read token.md"
+}
