@@ -1,15 +1,4 @@
-TODO
-Authenticate with youtube (bot account)
-=> get the refreshtoken from oauth
-
-
-How to get ChatID
-
-
-What we need:
-ClientID
-ClientSecret
-Some API token YT data API probably.
+How to get ChatID page.
 
 - [x] Listen for messages
 - [x] Send messages back
