@@ -11,9 +11,9 @@ ClientID
 ClientSecret
 Some API token YT data API probably.
 
-[x] Listen for messages
-[x] Send messages back
-[] Deleting messages
-[] Kick people
-[] Ban people
-[] Gearbox Integration
+- [x] Listen for messages
+- [x] Send messages back
+- [ ] Deleting messages
+- [ ] Kick people
+- [ ] Ban people
+- [ ] Gearbox Integration
